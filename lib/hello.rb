@@ -1,4 +1,4 @@
-hello_t(array)
+hello_t
 
 
 # call your method here!
